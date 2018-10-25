@@ -1,2 +1,2 @@
 # Puzzle-Solver
-A Puzzle solver in java
+A Puzzle solver in Java
