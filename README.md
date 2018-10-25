@@ -2,6 +2,7 @@
 A Puzzle solver in Java
 
 The Puzzle is given in a long one-line list of numbers.
+
 This is an example of a small Puzzle:
 
 0,[0, 0, 2, 1]; 1,[2, 0, 0, 3]; 2,[3, 0, 0, 4]; 3,[1, 4, 0, 0];
