@@ -13,6 +13,7 @@ For example, Piece number 0:
 0,[0, 0, 2, 1];
 
 The Piece composed of 4 slices; 0, 0, 2, 1.
+
 This is a visual representation of the Piece:
 ```
 -----------
@@ -23,6 +24,7 @@ This is a visual representation of the Piece:
 -----------
 ```
 Every Piece composed of upper slice, right slice, bottom slice and left slice.
+
 This is a visual representation of the Puzzle in its initial state:
 ```
 ----------------------
@@ -54,6 +56,7 @@ This is a visual representation of one of the solutions of the Puzzle:
 ----------------------
 ```
 As you can see, all the zeros are in the edges and every two slices that are touching each other have the same number.
+
 This is The solution in one line:
 
 0,3; 1,3; 3,0; 2,0;
