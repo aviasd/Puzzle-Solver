@@ -12,7 +12,7 @@ For example, Piece number 0:
 
 0,[0, 0, 2, 1];
 
-The Piece composed of 4 slices; 0, 0, 2, 1.
+The Piece is composed of 4 slices; 0, 0, 2, 1.
 
 This is a visual representation of the Piece:
 ```
@@ -23,7 +23,7 @@ This is a visual representation of the Piece:
 |  / 2 \  |
 -----------
 ```
-Every Piece composed of upper slice, right slice, bottom slice and left slice.
+Every Piece is composed of upper slice, right slice, bottom slice and left slice.
 
 This is a visual representation of the Puzzle in its initial state:
 ```
