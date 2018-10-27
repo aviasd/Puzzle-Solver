@@ -1,5 +1,5 @@
-# Puzzle-Solver
-A Puzzle solver in Java
+# Recursive-Puzzle-Solver
+A recursive Puzzle solver in Java
 
 The Puzzle is given in a long one-line list of numbers.
 
